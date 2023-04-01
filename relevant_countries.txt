@@ -1,0 +1,26 @@
+Country,Capital,Latitude,Longitude
+Albania,Tirana,41.3275,19.8189
+Belarus,Minsk, 53.9045,27.5615
+Bosnia and Herzegovina,Sarajevo,43.8564,18.4131
+Bulgaria,Sofia,42.6975,23.3241
+Croatia,Zagreb,45.8150,15.9819
+Czech Republic,Prague,50.0755,14.4378
+Estonia,Tallinn,59.4370,24.7536
+Hungary,Budapest,47.4979,19.0402
+Kosovo,Pristina,42.6629,21.1655
+Latvia,Riga,56.9496,24.1052
+Lithuania,Vilnius,54.6872,25.2797
+Moldova, Republic of,Chisinau,47.0105,28.8638
+Montenegro,Podgorica,42.4304,19.2594
+Macedonia,Skopje,42.0024,21.4361
+Poland,Warsaw,52.2297,21.0122
+Romania,Bucharest,44.4268,26.1025
+Russia,Moscow,55.7558,37.6173
+Serbia,Belgrade,44.7866,20.4489
+Slovakia,Bratislava,48.1486,17.1077
+Slovenia,Ljubljana,46.0569,14.5058
+Ukraine,Kyiv,50.4501,30.5234
+Austria,Vienna,48.208,16.373
+Kosovo,Pristina,46.6672,21.1662
+Greece,Athens,37.9838,23.7275
+Turkey,Ankara,38.9637,35.2433
